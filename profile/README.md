@@ -1,6 +1,6 @@
-# 🐦 Bluebird Technologies
+# BlueBird
 
-**AI-Powered Solutions | Web Development | Automation | Cloud**
+**AI-Powered Solutions | Automation | Web Development | Cloud**
 
 Welcome to **Bluebird** – where intelligent systems meet smart development.
 

@@ -2,7 +2,7 @@
 
 **AI-Powered Solutions | Automation | Web Development | Cloud**
 
-Welcome to **Bluebird** – where intelligent systems meet smart development.
+Welcome to **BlueBird** – where intelligent systems meet smart development.
 
 We are a modern technology company focused on building scalable, AI-driven digital products. From robust web apps to process automation and intelligent assistants, we combine engineering precision with creative problem-solving.
 
